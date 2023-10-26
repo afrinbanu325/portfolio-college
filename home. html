@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width",initial-scale="1.0">
+    <title>College_portfolio</title>
+    <link rel="stylesheet" href="home.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'> 
+</head>
+
+<body>
+    <header class="header">
+        <img src="home1.png" class="cert"><a href="#" class="logo">SAASC</a>
+
+        <nav class="navbar">
+            <a href="home.html" style="--i:1;" class="active ">Home</a>
+            <a href="about.html" style="--i:2;">About</a>
+            <a href="dept.html" style="--i:3;">Department</a>
+            <a href="gallery.html" style="--i:4;">Gallery</a>
+            <a href="contact.html" target="_blank" style="--i:5;">Contact</a>
+        </nav>
+
+        <div class="social-media">
+            <a href="#" style="--i:1;"><i class='bx bxl-twitter'></i></a>
+            <a href="#" style="--i:2;"><i class='bx bxl-facebook' ></i></a>
+            <a href="https://www.instagram.com/saasc_official/?hl=en" style="--i:3;"><i class='bx bxl-instagram' ></i></a>
+        </div>
+    </header>
+
+    <section class="home">
+        <div class="home-content">
+            <h1>Syed Ammal College of Arts and Science</h1>
+            <h3>Established in 2010</h3>
+            <p>Affiliated to Alagappa University,karaikudi</p>
+            <p>NAAC Accredited with B Grade and recognized by UGC under section 2(f) , Dr E.M.Abdullah Nagar,Devipattinam Road,Pullankudi(po)</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+                <p>Ramanathapuram-623513</p>
+
+            <a href="https://saasc10.com/Admission.html#undefined2" class="btn">Apply Now</a>
+        </div>
+
+        <div class="home-img">
+            <div class="rhombus">
+                <img src="home.png" alt="college">
+            </div>
+        </div>
+
+        <div class="rhombus2"></div>
+    </section>
+</body>
+</html>
